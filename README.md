@@ -1,7 +1,7 @@
 # projetos
 Projetos em C++
 
-Código da calculadora em C++
+Código da calculadora em C++ <<endl;
 /*                     DESENVOLVIDO POR VITOR FELIPE RAMOS MELLO - GRADUANDO ENGENHARIA DA COMPUTAÇÃO
                                            NA UNIVERSIDADE DO VALE DO ITAJAÍ*/
 #include <iostream>
